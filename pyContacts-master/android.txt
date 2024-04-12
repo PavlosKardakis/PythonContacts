@@ -1,0 +1,3 @@
+title=pyContacts-latest
+author=Omada-45
+orientation=<portrait>
